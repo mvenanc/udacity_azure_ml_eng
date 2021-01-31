@@ -14,13 +14,25 @@ Before going deep into the implementation, lets introduce what ESRB ratings is.
 ## What is ESRB and what are the various Categories?
 ESRB stands for Entertainment Software Rating Board. It is an American self-regulatory organization for assigning content ratings to consumer Video games. It was established in 1994 in response to criticism of contoversial video games like mortal Kombat "Fatality, hmm...". ESRB has the following labels:
 
->> ** RP ** - Ratings Pending (1994-present) This symbol is used in promotional materials for games which have not yet been assigned a final rating by the ESRB.
->> ** EC ** - Early Childhood (1994-2018) Games with this rating contain content which is aimed towards a preschool audience. They do not contain content that parents would find objectionable to this audience.No longer used as of 2018 due to few titles using this, and all titles with this rating are replaced with the E rating.
->> ** E ** - Everyone (1994-present) Games with this rating contain content which the ESRB believes is "generally suitable for all ages".They can contain content such as infrequent use of "mild"/cartoon violence and mild language.This rating was known as Kids to Adults (K-A) until 1998, when it was renamed "Everyone".
->> ** E10+ ** - Everyone 10+ (2005-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 10 years and older. They can contain content with an impact higher than the "Everyone" rating can accommodate, but still not as high as to warrant a "Teen" rating, such as a larger amount of violence, mild language, crude humor, or suggestive content.
->> ** T ** - Teen (1994-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 13 years and older; they can contain content such as moderate amounts of violence (including small amounts of blood), mild to moderate use of language or suggestive themes, sexual content, partial nudity and crude humor.
->> ** M17+ ** -  Mature 17+ (1994-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 17 years and older; they can contain content with an impact higher than the "Teen" rating can accommodate, such as intense and/or realistic portrayals of violence (including blood, gore, mutilation, and depictions of death), strong sexual themes and content, nudity, and more frequent use of strong language.
->> ** A ** - Adults (1994-present) Games with this rating contain content which the ESRB believes is only suitable for those aged 18 years and older; they contain content with an impact higher than the "Mature" rating can accommodate, such as graphic sexual themes and content, extreme portrayals of violence, or unsimulated gambling with real currency. The majority of AO-rated titles are pornographic adult video games; the ESRB has seldom issued the AO rating solely for violence.
+>> **RP** - Ratings Pending (1994-present) This symbol is used in promotional materials for games which have not yet been assigned a final rating by the ESRB.
+
+
+>> **EC** - Early Childhood (1994-2018) Games with this rating contain content which is aimed towards a preschool audience. They do not contain content that parents would find objectionable to this audience.No longer used as of 2018 due to few titles using this, and all titles with this rating are replaced with the E rating.
+
+
+>> **E** - Everyone (1994-present) Games with this rating contain content which the ESRB believes is "generally suitable for all ages".They can contain content such as infrequent use of "mild"/cartoon violence and mild language.This rating was known as Kids to Adults (K-A) until 1998, when it was renamed "Everyone".
+
+
+>> **E10+** - Everyone 10+ (2005-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 10 years and older. They can contain content with an impact higher than the "Everyone" rating can accommodate, but still not as high as to warrant a "Teen" rating, such as a larger amount of violence, mild language, crude humor, or suggestive content.
+
+
+>> **T** - Teen (1994-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 13 years and older; they can contain content such as moderate amounts of violence (including small amounts of blood), mild to moderate use of language or suggestive themes, sexual content, partial nudity and crude humor.
+
+
+>> **M17+** -  Mature 17+ (1994-present) Games with this rating contain content which the ESRB believes is generally suitable for those aged 17 years and older; they can contain content with an impact higher than the "Teen" rating can accommodate, such as intense and/or realistic portrayals of violence (including blood, gore, mutilation, and depictions of death), strong sexual themes and content, nudity, and more frequent use of strong language.
+
+
+>> **A** - Adults (1994-present) Games with this rating contain content which the ESRB believes is only suitable for those aged 18 years and older; they contain content with an impact higher than the "Mature" rating can accommodate, such as graphic sexual themes and content, extreme portrayals of violence, or unsimulated gambling with real currency. The majority of AO-rated titles are pornographic adult video games; the ESRB has seldom issued the AO rating solely for violence.
 
 
 
