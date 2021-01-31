@@ -128,7 +128,7 @@ Another feature that we have when a model is deployd as an endpoint on Azure is 
 
 ## Screencast vídeo (Clik on the image - The video is hosted on youtube)
 
-[![Watch the video](https://img.youtube.com/vi/iPkfpMEGURs/maxresdefault.jpg)](https://youtu.be/iPkfpMEGURs)
+[![Watch the video](https://img.youtube.com/vi/oNAXpyJLlCo/maxresdefault.jpg)](https://youtu.be/oNAXpyJLlCo)
 
 
 
