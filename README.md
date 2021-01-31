@@ -43,6 +43,11 @@ The architecture of the project is based on the Azure ML MLOps architecture. The
 ![](images/entire_pipeline.png?raw=true)
 
 
+## Dataset 
+
+[![label](https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/imohtn/video-games-rating-by-esrb)
+
+
 ## Data Analysis 
 
 ## Correlation
@@ -119,6 +124,12 @@ Endpoint inference test.
 Another feature that we have when a model is deployd as an endpoint on Azure is to monitor the health and anothere metrics of the endpoint. This is possible turning on Application Insights. 
 
 ![](images/step2_enable_app_insights.jpg?raw=true)
+
+
+## Screencast vídeo (Clik on the image - The video is hosted on youtube)
+
+[![Watch the video](https://img.youtube.com/vi/iPkfpMEGURs/maxresdefault.jpg)](https://youtu.be/iPkfpMEGURs)
+
 
 
 ## Project future improvements
